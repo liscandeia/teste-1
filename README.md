@@ -1,7 +1,5 @@
 # Teste prático - Desenvolvedor Donald
 
-[![N|BH Softwares](https://imagedelivery.net/BgH9d8bzsn4n0yijn4h7IQ/de5a05ed-37f0-4eed-22cb-233beb405a00/w=1200)](https://donald.bet.br/)
-
 **Desenvolver uma aplicação simples utilizando [Laravel 11](https://laravel.com/).**
 O objetivo desta avaliação é medir o nível de conhecimento do candidato nas áreas em que a vaga será exigida.
 
