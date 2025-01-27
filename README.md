@@ -47,6 +47,7 @@ DB_PASSWORD=sua_senha
 ```
 
 #### 4. Gere a Chave da Aplicação
+cd api-laravel (para entrar na pasta da api)
 
 ```bash
 php artisan key:generate
@@ -69,6 +70,7 @@ O servidor estará acessível em [http://localhost:8080](http://localhost:8080).
 ---
 
 #### 7. Instale as Dependências do Frontend
+cd front-api (para entrar na pasta do front)
 
 ```bash
 npm install
