@@ -77,5 +77,5 @@ npm install
 #### 3. Compile os Arquivos Frontend
 
 ```bash
-npm run dev
+npm run serve
 ```
