@@ -64,7 +64,7 @@ php artisan migrate
 php artisan serve
 ```
 
-O servidor estará acessível em [http://localhost:8000](http://localhost:8000).
+O servidor estará acessível em [http://localhost:8080](http://localhost:8000).
 
 ---
 
